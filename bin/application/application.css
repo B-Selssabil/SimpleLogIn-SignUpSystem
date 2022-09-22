@@ -1,0 +1,13 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,500;0,600;0,800;0,900;1,600&display=swap');
+
+
+AnchorPane {
+
+    -fx-font-family: 'Poppins', sans-serif;
+    -fx-font-weight: 500;
+    
+    }
+    
